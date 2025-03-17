@@ -1,7 +1,6 @@
 <div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=#26DFED&height=300&section=header&text=¡Hola!&npsp;만나서반가워요)
-</div>
+<!--Header-->
+![header](https://capsule-render.vercel.app/api?type=wave&color=%26DFED&height=300&section=header&text=¡Hola!%20만나서반가워요)
 
 <div>
   <!--Body-->
